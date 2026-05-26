@@ -4,14 +4,14 @@ Take a look at the image in this folder 'final.jpg'
 Let's see if we can make this with HTML
 
 You will need lots of tags to do this including
-<h1>
-<h2>
-<em>
-<a>
-<ul>
-<ol>
-<li>
-<img>
-<strong>
+<h1>   Heading 1
+<h2>   Heading 2
+<em>    Smaller
+<a>     Hyper Link
+<ul>    
+<ol>    
+<li>    List 
+<img>    Image
+<strong>   Bold
 
 Extra for experts: See if you can style this site to make it look a bit nicer.
