@@ -4,14 +4,14 @@ In this task, you'll build a simple campaign tracker that updates a donation tot
 when a button is clicked. Every $10 matters!
 
 🟡 PREDICT  
-What will the total be after 3 clicks?
-What happens when you reach $50? $100?
+What will the total be after 3 clicks? 30 dollars
+What happens when you reach $50? $100? will thank you?
 
 🟢 RUN  
 Click the “Give $10” button a few times and see what changes on the page.
 
 🔵 INVESTIGATE  
-- What variable is keeping track of the total?
+- What variable is keeping track of the total? Total donations
 - Where is it being updated?
 - How does the code decide which message to show?
 

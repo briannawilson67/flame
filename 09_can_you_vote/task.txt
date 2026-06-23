@@ -10,8 +10,8 @@ Some are broken logic. Some are things JavaScript doesn’t even allow.
 
 🟡 PREDICT  
 Before you even run it:  
-- What stands out as broken?  
-- What do you think will happen when you try it?
+- What stands out as broken?   
+- What do you think will happen when you try it? 
 - What do you think *should* happen?
 
 🟢 RUN  
